@@ -1,0 +1,15 @@
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\consapp.exe.config
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\consapp.exe
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\consapp.pdb
+C:\Users\Konrad\source\repos\consapp\consapp\obj\Debug\consapp.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\consapp\consapp\obj\Debug\consapp.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\consapp\consapp\obj\Debug\consapp.exe
+C:\Users\Konrad\source\repos\consapp\consapp\obj\Debug\consapp.pdb
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\nunit.engine.dll
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\nunit.engine.api.dll
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\nunit.framework.dll
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\nunit.framework.pdb
+C:\Users\Konrad\source\repos\consapp\consapp\bin\Debug\nunit.framework.xml
+C:\Users\Konrad\source\repos\consapp\consapp\obj\Debug\consapp.csproj.CopyComplete
